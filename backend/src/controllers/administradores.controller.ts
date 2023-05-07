@@ -24,4 +24,7 @@ export const obtenerAdministradores = (req: Request, res: Response) => {
             res.end();
         })
 }
+export const probandoGit = () =>{
+    
+}
 
